@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "base_track": "flower rhapsody",
+  "base_artist": "さくらみこ",
+  "createdAt": "2026-03-30T02:48:52.240675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "flower rhapsody",
+      "artist": "さくらみこ",
+      "has_synced": true,
+      "path": "select/01_flower_rhapsody_さくらみこ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flower Shops (feat. Morgan Wallen) [Acoustic]",
+      "artist": "ERNEST",
+      "has_synced": true,
+      "path": "select/02_Flower_Shops_(feat._Morgan_Wallen)_[Acoustic]_ERNEST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wildwood Flower",
+      "artist": "The Carter Family",
+      "has_synced": true,
+      "path": "select/03_Wildwood_Flower_The_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wildwood Flower (Album Version)",
+      "artist": "The Original Carter Family",
+      "has_synced": true,
+      "path": "select/04_Wildwood_Flower_(Album_Version)_The_Original_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lotus Flower",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Lotus_Flower_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Remix)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_Lotus_Flower_(Jacques_Greene_Remix)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jacques Greene Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Lotus_Flower_(Jacques_Greene_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lotus Flower - Jaques Green RMX",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Lotus_Flower_-_Jaques_Green_RMX_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lotus Flower (Jaques Green RMX)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Lotus_Flower_(Jaques_Green_RMX)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lotus Flower (SBTRKT Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Lotus_Flower_(SBTRKT_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Destroy The Flower",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/11_Destroy_The_Flower_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/12_Flower_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flower - Remastered",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/13_Flower_-_Remastered_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flower",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/14_Flower_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pluck a Flower",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/15_Pluck_a_Flower_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blue Flower",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/16_Blue_Flower_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blue Flower (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/17_Blue_Flower_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blue Flower (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/18_Blue_Flower_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dream Of A Young Girl As A Flower",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/19_Dream_Of_A_Young_Girl_As_A_Flower_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/20_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/21_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": true,
+      "path": "select/22_Bohemian_Rhapsody_The_Braids.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/23_Bohemian_Rhapsody_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (Stripped-Down mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/24_Bohemian_Rhapsody_(Stripped-Down_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (a cappella)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/25_Bohemian_Rhapsody_(a_cappella)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (acoustic)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/26_Bohemian_Rhapsody_(acoustic)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (radio mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/27_Bohemian_Rhapsody_(radio_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Rhapsody",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/28_Rhapsody_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Rhapsody",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/29_Rhapsody_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Post Modern Rhapsody",
+      "artist": "WARGASM (UK)",
+      "has_synced": false,
+      "path": "select/30_Post_Modern_Rhapsody_WARGASM_(UK).txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/31_Bohemian_Rhapsody_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Big Medley: In the Flesh? / Carry On Wayward Son / Bohemian Rhapsody / Lovin', Touchin', Squeezin' / Cruise Control / Turn It On Again (Live)",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/32_The_Big_Medley__In_the_Flesh____Carry_On_Wayward_Son___Bohemian_Rhapsody___Lovin_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Brohemian Rhapsody",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/33_Brohemian_Rhapsody_Blink-182.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flower rhapsody",
+      "artist": "さくらみこ",
+      "has_synced": false,
+      "path": "select/pl_01_flower_rhapsody_さくらみこ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "flower rhapsody",
+      "artist": "さくらみこ",
+      "has_synced": true,
+      "path": "select/localdb_01_flower_rhapsody_さくらみこ.lrc",
+      "repo_name": "BerwUFzdj4U"
+    }
+  ]
+}
